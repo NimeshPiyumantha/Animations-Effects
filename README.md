@@ -11,6 +11,10 @@ This is learning HTML and CSS.
 ![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/loadingAnimation.png)
 * link : https://nimeshpiyumantha.github.io/Animations-Effects/loadingAnimation
 
+## Glowing Cube Animation
+![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/Screenshot%20(101).png)
+* link : https://nimeshpiyumantha.github.io/Animations-Effects/glowingCube
+
 
 ##  Connect with me
 <p align="center">
