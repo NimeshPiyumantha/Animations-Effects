@@ -119,7 +119,7 @@ a.active, a:hover {
 }
 
 .img {
-    background: url("/navigazteBar/background.png") no-repeat;
+    background: url("navigazteBar/background.png") no-repeat;
     background-size: cover;
     height: calc(100vh - 80px);
 }
