@@ -35,6 +35,10 @@ This is learning HTML and CSS.
 ![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/animate2.png)
 * link : https://nimeshpiyumantha.github.io/Animations-Effects/loadingAnimation2
 
+## Navigation
+![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/navigation.png)
+* link : https://nimeshpiyumantha.github.io/Animations-Effects/navigazteBar
+
 ##  Connect with me
 <p align="center">
 <a href="https://twitter.com/NPiyumantha60"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__NimeshPiyumantha__" height="30" width="40" /></a>
