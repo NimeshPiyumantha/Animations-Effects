@@ -120,7 +120,7 @@ a.active, a:hover {
 
 .img {
 /*    background: url("https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/navigazteBar/background.png") no-repeat;*/
-    background-image: url(background.png) ;
+    background-image: url(https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/navigazteBar/background.png) ;
     background-repeat: no-repeat;
     background-size: cover;
     height: calc(100vh - 80px);
