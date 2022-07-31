@@ -41,6 +41,11 @@ This is learning HTML and CSS.
 ![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/animatedBackground.png)
 * link : https://nimeshpiyumantha.github.io/Animations-Effects/backgroundAnimated
 
+## Social Media Buttons
+![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/socialMedia.png)
+* link : https://nimeshpiyumantha.github.io/Animations-Effects/SocialMediaButtons
+
+
 ###  
 ### Clone this repository ✅
 ```md
