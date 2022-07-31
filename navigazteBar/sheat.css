@@ -11,7 +11,7 @@
 
 nav {
     background: #F8F7F3;
-    height: 80px;
+    height: 100px;
     width: 100%;
 }
 
@@ -36,7 +36,7 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    line-height: 80px;
+    line-height: 110px;
     margin: 0 5px;
 }
 
@@ -119,9 +119,7 @@ a.active, a:hover {
 }
 
 .img {
-/*    background: url("https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/navigazteBar/background.png") no-repeat;*/
-    background-image: url(https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/navigazteBar/background.png) ;
     background-repeat: no-repeat;
-    background-size: cover;
-    height: calc(100vh - 80px);
+    width: 100%;
+    margin-right: -10px;
 }
