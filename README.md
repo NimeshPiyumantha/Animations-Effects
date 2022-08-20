@@ -59,7 +59,6 @@ This is learning HTML and CSS.
 ```md
 https://github.com/NimeshPiyumantha/Animations-Effects.git
 ```
-
 ##  Connect with me
 #### If you have any bugs or issues , If you want to explain my code please contact me on :
 <div align="center">
