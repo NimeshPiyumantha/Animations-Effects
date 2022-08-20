@@ -45,6 +45,10 @@ This is learning HTML and CSS.
 ![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/socialMedia.png)
 * link : https://nimeshpiyumantha.github.io/Animations-Effects/SocialMediaButtons
 
+## QR Code Scanner
+![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/qr_code.png)
+* link : https://nimeshpiyumantha.github.io/Animations-Effects/QRCodeScanner
+
 
 ###  
 ### Clone this repository ✅
