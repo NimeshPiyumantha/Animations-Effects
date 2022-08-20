@@ -49,6 +49,9 @@ This is learning HTML and CSS.
 ![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/qr_code.png)
 * link : https://nimeshpiyumantha.github.io/Animations-Effects/QRCodeScanner
 
+## Navigation Tabs Menu
+![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/NavigationTab.png)
+* link : https://nimeshpiyumantha.github.io/Animations-Effects/NavigationTabsMenu
 
 ###  
 ### Clone this repository ✅
