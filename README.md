@@ -1,6 +1,7 @@
 # Animations-Effects
 
 This is learning HTML and CSS.
+
 * HTML
 * CSS
 * JavaScript
