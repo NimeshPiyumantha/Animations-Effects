@@ -54,6 +54,11 @@ This is learning HTML and CSS.
 ![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/NavigationTab.png)
 * link : https://nimeshpiyumantha.github.io/Animations-Effects/NavigationTabsMenu
 
+## Navigation Tabs Menu
+![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/magicnavigation.png)
+* link : https://nimeshpiyumantha.github.io/Animations-Effects/NavigationMenu
+
+
 ###  
 ### Clone this repository ✅
 ```md
