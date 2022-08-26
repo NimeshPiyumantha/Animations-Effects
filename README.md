@@ -58,6 +58,10 @@ This is learning HTML and CSS.
 ![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/magicnavigation.png)
 * link : https://nimeshpiyumantha.github.io/Animations-Effects/NavigationMenu
 
+## Responsive Touch Slider
+![alt text](https://github.com/NimeshPiyumantha/Animations-Effects/blob/main/assests/ResponsiveTouchSlider.png)
+* link : https://nimeshpiyumantha.github.io/Animations-Effects/ResponsiveTouchSlider
+
 
 ###  
 ### Clone this repository ✅
