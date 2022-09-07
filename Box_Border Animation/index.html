@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <head>
+        <title>CSS animation</title>
+       <style>
+
+           html, body {
+               height: 100%;
+           }
+
+           body {
+               position: relative;
+               background-color: #0f222b;
+           }
+
+           *, *::before, *::after {
+               box-sizing: border-box;
+           }
+
+           .box, .box::before, .box::after {
+               position: absolute;
+               top: 0;
+               bottom: 0;
+               left: 0;
+               right: 0;
+           }
+
+           .box {
+               width: 200px;
+               height: 200px;
+               margin: auto;
+               border:5px solid #fff;
+
+           }
+
+           .box::before, .box::after {
+               content: '';
+               z-index: -1;
+               margin: -7%;
+               box-shadow: inset 0 0 0 5px;
+               animation: clipMe 8s linear infinite;
+           }
+
+           .box::before {
+               animation-delay: -4s;
+           }
+
+           .box:hover::after, .box:hover::before {
+               background-color: rgba(255, 0, 0, .3);
+           }
+
+           @keyframes clipMe {
+               0%, 100% {
+                   clip: rect(0px, 220px, 2px, 0px);
+                   color: yellow;
+               }
+               25% {
+                   clip: rect(0px, 2px, 220px, 0px);
+                   color: orange;
+               }
+               50% {
+                   clip: rect(218px, 220px, 220px, 0px);
+                   color: violet;
+               }
+               75% {
+                   clip: rect(0px, 220px, 220px, 218px);
+                   color: yellowgreen;
+               }
+           }
+
+
+       </style>
+    </head>
+<body>
+<div class="box">
+</div>
+</body>
+</html>
